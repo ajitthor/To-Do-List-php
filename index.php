@@ -1,4 +1,4 @@
-3<?php
+<?php
 include("dbconnection.php");
 ?>
 <!DOCTYPE html>
